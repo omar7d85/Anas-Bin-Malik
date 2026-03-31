@@ -1,0 +1,724 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>انس بن مالك للتعليم الاساسي</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="الموقع الرسمي لمدرسة أنس بن مالك 2026 يعرض الأخبار، الأنشطة، وأسماء الأوائل بإشراف Omar Ahmed Soliman.">
+    <meta name="keywords" content="مدرسة أنس بن مالك, تعليم, أوائل, أنشطة مدرسية, 2026, طلاب, امتحانات, جدول الحصص, أخبار المدرسة, المعلمين, الفصول الدراسية, كتب, مكتبة, مسابقات, مشاريع, فعاليات, نتائج, التربية, الأنشطة الإضافية, التعليم الرقمي">
+    <meta name="author" content="Omar Ahmed Soliman">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="الموقع الرسمي لمدرسة أنس بن مالك 2026">
+    <meta property="og:description" content="تابع أخبار وأنشطة مدرسة أنس بن مالك وأسماء الأوائل لعام 2026.">
+    <meta property="og:image" content="https://example.com/school-image.jpg">
+    <meta name="theme-color" content="#8A1538">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="shortcut icon" href="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="bg-light">
+    <nav class=" navbar navbar-expand-lg navbar-dark  shadow-sm sticky-top">
+        <div class="container">
+
+            <img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" class="logo-img" alt="">
+
+            <a class="navbar-brand" href="#">انس بن مالك</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./home.html">الصفحة الرئيسية</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./news.html">الاخبار</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            الموارد التعليمية
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./names.html">أسماء المعلمين</a></li>
+                            <li><a class="dropdown-item" href="./the-tops.html">الأوائل</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <h2 class="container mt-5" style="color: rgb(87, 17, 34);">نبذة عن المدرسة</h2>
+    <section class="container home-section">
+
+        <div class="box">
+
+            <div class="content">
+
+                <p>مدرسة أنس بن مالك للصفوف من 5 إلى 7 تعتبر من المدارس الرائدة في تقديم تعليم متكامل يركز على تنمية
+                    شخصية الطالب من جميع الجوانب. تهدف المدرسة إلى خلق بيئة تعليمية محفزة تشجع الطلاب على التعلم
+                    والاكتشاف، مع مراعاة تطوير مهارات التفكير النقدي والإبداعي لديهم. تقدم المدرسة برامج أكاديمية قوية
+                    تغطي جميع المواد الأساسية، إلى جانب الأنشطة الرياضية والفنية التي تساعد في تنمية المواهب الفردية
+                    وبناء روح التعاون والعمل الجماعي. يولي المدرسون في أنس بن مالك اهتمامًا خاصًا بتطوير قيم الانضباط
+                    والاحترام وحب المعرفة لدى الطلاب، كما توفر المدرسة مرافق حديثة وأدوات تعليمية مبتكرة تساهم في تعزيز
+                    تجربة التعلم وجعلها ممتعة وفعالة. من خلال التركيز على التعليم المتوازن بين الجانب الأكاديمي
+                    والاجتماعي والثقافي، تسعى مدرسة أنس بن مالك إلى إعداد جيل قادر على مواجهة تحديات المستقبل بثقة
+                    ومهارات متقدمة.</p>
+            </div>
+            <div class="img-box">
+                <img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="container home-section">
+        <div class="box">
+            <div class="content">
+                <p>تأسست مدرسة أنس بن مالك منذ عدة سنوات بهدف تقديم تعليم متميز للطلاب من الصفوف 5 إلى 7، وقد شهدت منذ
+                    انطلاقتها تطورًا ملحوظًا على جميع الأصعدة الأكاديمية والإدارية. بدأت المدرسة بفريق صغير من المعلمين
+                    الملتزمين، ومع مرور الوقت توسعت لتضم كوادر تعليمية متخصصة في جميع المواد الدراسية، بالإضافة إلى
+                    خبراء في الأنشطة الرياضية والفنية والثقافية. حرصت إدارة المدرسة منذ البداية على توفير بيئة تعليمية
+                    آمنة ومحفزة، مع التركيز على استخدام أحدث أساليب التدريس والتكنولوجيا التعليمية لتسهيل عملية التعلم.
+                    عبر السنوات، أصبحت مدرسة أنس بن مالك نموذجًا للتميز التعليمي، حيث يحرص الطلاب على التفوق الدراسي
+                    والمشاركة في الأنشطة المتنوعة، بينما يفتخر أولياء الأمور بمتابعة نمو أبنائهم في بيئة متكاملة تجمع
+                    بين التعليم الأكاديمي والقيم الإنسانية والاجتماعية. ومع كل عام دراسي جديد، تواصل المدرسة تعزيز
+                    مكانتها كمؤسسة تعليمية رائدة تسعى لإعداد جيل مبدع وواعٍ قادر على مواجهة تحديات المستقبل بكل ثقة
+                    وإصرار.</p>
+            </div>
+            <div class="img-box">
+                <img src="./imgs/مدرسه1.jpg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="container home-section">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img class="swiper-img"
+                        src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
+
+
+//
+
+
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+    },
+});
+
+
+//
+
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>انس بن مالك للتعليم الاساسي</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="الموقع الرسمي لمدرسة أنس بن مالك 2026 يعرض الأخبار، الأنشطة، وأسماء الأوائل بإشراف Omar Ahmed Soliman.">
+    <meta name="keywords" content="مدرسة أنس بن مالك, تعليم, أوائل, أنشطة مدرسية, 2026, طلاب, امتحانات, جدول الحصص, أخبار المدرسة, المعلمين, الفصول الدراسية, كتب, مكتبة, مسابقات, مشاريع, فعاليات, نتائج, التربية, الأنشطة الإضافية, التعليم الرقمي">
+    <meta name="author" content="Omar Ahmed Soliman">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="الموقع الرسمي لمدرسة أنس بن مالك 2026">
+    <meta property="og:description" content="تابع أخبار وأنشطة مدرسة أنس بن مالك وأسماء الأوائل لعام 2026.">
+    <meta property="og:image" content="https://example.com/school-image.jpg">
+    <meta name="theme-color" content="#8A1538">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="shortcut icon" href="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="bg-light">
+    <nav class=" navbar navbar-expand-lg navbar-dark  shadow-sm sticky-top">
+        <div class="container">
+
+            <img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" class="logo-img" alt="">
+
+            <a class="navbar-brand" href="#">انس بن مالك</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./home.html">الصفحة الرئيسية</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./news.html">الاخبار</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            الموارد التعليمية
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./names.html">أسماء المعلمين</a></li>
+                            <li><a class="dropdown-item" href="./the-tops.html">الأوائل</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <section class="container box2 mt-5">
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+
+            <!-- 1 مدير المدرسة -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        مدير المدرسة
+                    </button>
+                </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان آل فلان
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 الاخصائيون -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        الاخصائيون
+                    </button>
+                </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان آل فلان
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3 معلمين الرياضيات -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                        معلمين الرياضيات
+                    </button>
+                </h2>
+                <div id="flush-collapseThree" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان فلان
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4 معلمين عربي -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                        معلمين عربي
+                    </button>
+                </h2>
+                <div id="flush-collapseFour" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان فلان
+                    </div>
+                </div>
+            </div>
+
+            <!-- 5 معلمين انجلش -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                        معلمين انجلش
+                    </button>
+                </h2>
+                <div id="flush-collapseFive" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان فلان
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6 معلمين علوم -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                        معلمين علوم
+                    </button>
+                </h2>
+                <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        فلان فلان فلان
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous">
+        </script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
+
+
+
+//
+
+
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>انس بن مالك للتعليم الاساسي</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="الموقع الرسمي لمدرسة أنس بن مالك 2026 يعرض الأخبار، الأنشطة، وأسماء الأوائل بإشراف Omar Ahmed Soliman.">
+    <meta name="keywords" content="مدرسة أنس بن مالك, تعليم, أوائل, أنشطة مدرسية, 2026, طلاب, امتحانات, جدول الحصص, أخبار المدرسة, المعلمين, الفصول الدراسية, كتب, مكتبة, مسابقات, مشاريع, فعاليات, نتائج, التربية, الأنشطة الإضافية, التعليم الرقمي">
+    <meta name="author" content="Omar Ahmed Soliman">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="الموقع الرسمي لمدرسة أنس بن مالك 2026">
+    <meta property="og:description" content="تابع أخبار وأنشطة مدرسة أنس بن مالك وأسماء الأوائل لعام 2026.">
+    <meta property="og:image" content="https://example.com/school-image.jpg">
+    <meta name="theme-color" content="#8A1538">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="shortcut icon" href="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="bg-light">
+    <nav class=" navbar navbar-expand-lg navbar-dark  shadow-sm sticky-top">
+        <div class="container">
+
+            <img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" class="logo-img" alt="">
+
+            <a class="navbar-brand" href="#">انس بن مالك</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./home.html">الصفحة الرئيسية</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./news.html">الاخبار</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            الموارد التعليمية
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./names.html">أسماء المعلمين</a></li>
+                            <li><a class="dropdown-item" href="./the-tops.html">الأوائل</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <section class="container home-section">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+                <div class="swiper-slide"><img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" alt=""></div>
+
+            </div>
+            <!-- <div class="swiper-button-next"></div> -->
+            <!-- <div class="swiper-button-prev"></div> -->
+            <div class="swiper-pagination mt-4"></div>
+        </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
+
+
+
+//
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap'); */
+
+body {
+    font-family: "Tajawal", sans-serif;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-weight: 500;
+    min-height: 100vh;
+    text-align: right !important;
+}
+
+.logo-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navbar-brand {
+    font-weight: 800 !important;
+
+}
+
+.home-section {
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.box {
+    width: 100%;
+
+    min-height: 50vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 16px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-size: 20px;
+    text-align:justify;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.img-box img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+@media (max-width: 767px) {
+    .box {
+
+        grid-template-columns: 1fr;
+    }
+
+    .img-box {
+
+        /* height: 250px; */
+        order: -1;
+    }
+}
+
+.swiper-slide{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.swiper-img{
+    transform: scale(0.8);
+}
+
+.box2{
+    min-height: 50vh;
+}
+
+nav{
+    background-color: rgb(87, 17, 34);
+}
+
+
+.box3{
+    min-height: 50vh;
+    width: 100%;
+
+}
+
+ol{
+    width: 100%;
+}
+
+
+.dropdown-item{
+    text-align: right;
+}
+
+
+.accordion-button{
+    border: 1px black ;
+    border-style:dotted;
+    color: rgb(87, 17, 34);
+}
+
+
+//
+
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>انس بن مالك للتعليم الاساسي</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="الموقع الرسمي لمدرسة أنس بن مالك 2026 يعرض الأخبار، الأنشطة، وأسماء الأوائل بإشراف Omar Ahmed Soliman.">
+    <meta name="keywords" content="مدرسة أنس بن مالك, تعليم, أوائل, أنشطة مدرسية, 2026, طلاب, امتحانات, جدول الحصص, أخبار المدرسة, المعلمين, الفصول الدراسية, كتب, مكتبة, مسابقات, مشاريع, فعاليات, نتائج, التربية, الأنشطة الإضافية, التعليم الرقمي">
+    <meta name="author" content="Omar Ahmed Soliman">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="الموقع الرسمي لمدرسة أنس بن مالك 2026">
+    <meta property="og:description" content="تابع أخبار وأنشطة مدرسة أنس بن مالك وأسماء الأوائل لعام 2026.">
+    <meta property="og:image" content="https://example.com/school-image.jpg">
+    <meta name="theme-color" content="#8A1538">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="shortcut icon" href="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="bg-light">
+    <nav class=" navbar navbar-expand-lg navbar-dark  shadow-sm sticky-top">
+        <div class="container">
+
+            <img src="./imgs/WhatsApp Image 2026-03-01 at 15.16.49.jpeg" class="logo-img" alt="">
+
+            <a class="navbar-brand" href="#">انس بن مالك</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./home.html">الصفحة الرئيسية</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./news.html">الاخبار</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            الموارد التعليمية
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./names.html">أسماء المعلمين</a></li>
+                            <li><a class="dropdown-item" href="./the-tops.html">الأوائل</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 1</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 2</a></li>
+                            <li><a class="dropdown-item" href="#">عنصر 3</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <section class="container mt-5 box3">
+        <ol class="list-group list-group-numbered">
+            <li class="list-group-item">محمد فلان فلان</li>
+            <li class="list-group-item">عمر فلان فلان فلان</li>
+            <li class="list-group-item">عمر فلان فلان فلان فلان</li>
+        </ol>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                   الصف الخامس
+                </button>
+            </h2>
+            <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">
+                   <!-- ااا -->
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                    الصف السادس
+                </button>
+            </h2>
+            <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                   الصف السابع
+                </button>
+            </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>
